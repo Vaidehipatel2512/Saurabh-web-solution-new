@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 header {
-    background-image: url(Image/bgbg.jpg);
+    background-image: url(../Image/bgbg.jpg);
     height: 90vh;
     background-size:cover;
     background-position:center;
